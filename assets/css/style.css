@@ -1,0 +1,64 @@
+* {
+  margin: 20px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 0 5%;
+}
+
+section i {
+  font-size: 3rem;
+}
+
+.twitter {
+  color: #349CC3;
+}
+
+.behance {
+  color: #1769ff;
+}
+
+.facebook {
+  color: #3FB7EA;
+}
+
+.vimeo {
+  color: #3C5A99;
+}
+
+.snapchat {
+  color: #FDFC00;
+}
+
+.airbnb {
+  color: #F65C63;
+}
+
+.amazon {
+  color: #ff9900;
+}
+
+.android {
+  color: #A4C639;
+}
+
+.stack {
+  color: #f48024;
+}
+
+.ubuntu {
+  color: #dd4814;
+}
+
+.github {
+  color: #4078C0;
+}
+
+.js {
+  color: #F7DF1E;
+}
+
+/*# sourceMappingURL=style.css.map */

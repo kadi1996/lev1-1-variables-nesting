@@ -1,0 +1,55 @@
+@import "_generals.scss";
+@import "_mixin.scss";
+@import "_variables.scss";
+
+section i {
+    font-size: 3rem;
+}
+
+.twitter {
+    color: $twitter;
+}
+
+.behance {
+    color: $behance;
+}
+
+.facebook {
+    color: $facebook;
+}
+
+.vimeo {
+    color: $vimeo;
+}
+
+.snapchat {
+    color: $snapchat;
+}
+
+.airbnb {
+    color: $airbnb;
+}
+
+.amazon {
+    color: $amazon;
+}
+
+.android {
+    color: $android;
+}
+
+.stack {
+    color: $stack;
+}
+
+.ubuntu {
+    color: $ubuntu;
+}
+
+.github {
+    color: $github;
+}
+
+.js {
+    color: $js;
+}
